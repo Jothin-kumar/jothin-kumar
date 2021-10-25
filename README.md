@@ -4,7 +4,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Jothin-kumar&count_private=true&show_icons=true&theme=radical)
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jothin-kumar&theme=radical)  
 ![My streak](https://github-readme-streak-stats.herokuapp.com/?user=Jothin-kumar&theme=dark)
-![My contribution graph](https://activity-graph.herokuapp.com/graph?username=Jothin-kumar&theme=react-dark)  
+![My contribution graph](https://jothin-github-activity-graph.herokuapp.com/graph?username=Jothin-kumar&theme=react-dark)  
 I am a school student from India, interested in programming.
 
 - 🔭 I’m currently working on an open-source GUI application to solve geometrical problems! **You can [view and contribute](https://github.com/Jothin-kumar/Geometry-app) to it!**
