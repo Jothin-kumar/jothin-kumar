@@ -13,9 +13,8 @@ I am a school student from India, interested in programming.
 - 🤔 I’m looking for help with my open-source GUI application, [geometry app](https://github.com/Jothin-kumar/Geometry-app).
 - 💬 Ask me about python
 - 📫 **Feel free to reach me at:**  
-E-mail: contact@jothin.tech (or) bjothinphysics@gmail.com  
+E-mail: contact@jothin.tech  
 ![Discord logo](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white): @jothin-kumar#1075  
-[![Facebook logo](	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white): @bjothin](https://www.facebook.com/bjothin)
+[![Facebook logo](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white): @jothinkumar.py](https://www.facebook.com/jothinkumar.py)
 
 **Show me your support by starring my repositories and by following me :-)**  
-**[Hire me on Fiverr](https://www.fiverr.com/jothin_kumar)**
