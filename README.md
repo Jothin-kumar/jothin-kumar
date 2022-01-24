@@ -6,3 +6,4 @@
 <img src="https://jothin-github-activity-graph.herokuapp.com/graph?username=Jothin-kumar&theme=react-dark" alt="">
 <img src="https://visitor-badge.glitch.me/badge?page_id=Jothin-kumar.Jothin-kumar" alt="Visitors">
 </div>
+<p><a href="https://jothin.tech">Visit my website</a> to know more.</p>
