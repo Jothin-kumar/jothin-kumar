@@ -7,24 +7,6 @@ about_me = {
   "Website": "https://jothin.tech",
   "Blog": "https://blog.jothin.tech",
 
-  "Projects": [
-      {
-        "Name": "Geometry app",
-        "GitHub repository": "https://github.com/Jothin-kumar/Geometry-app",
-        "Documentation": "https://geometry-app.docs.jothin.tech/en/latest/"
-      },
-      {
-        "Name": "Lines of code",
-        "Website": "https://jothin.tech/lines-of-code",
-        "GitHub repository": "https://github.com/Jothin-kumar/lines-of-code",
-        "Documentation": "https://lines-of-code.docs.jothin.tech/en/latest/"
-      },
-      {
-        "Name": "Time widget",
-        "GitHub repository": "https://github.com/Jothin-kumar/time-widget"
-      }
-  ],
-
   "Contact": {
     "E-mail": "contact@jothin.tech",
     "Discord": "jothin-kumar#1075"
