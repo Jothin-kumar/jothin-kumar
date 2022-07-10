@@ -3,7 +3,7 @@
 about_me = {
   "Name": "Jothin kumar",
   "Location": "India",
-  "Age": 14,
+  "DOB": "15/12/2007",
   "Website": "https://jothin.tech",
   "Blog": "https://blog.jothin.tech",
 
