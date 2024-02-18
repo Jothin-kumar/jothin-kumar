@@ -1,26 +1,20 @@
-![banner](https://cdn.jothin.tech/banner.png)
-```python
-about_me = {
-  "Name": "Jothin kumar",
-  "Location": "India",
-  "DOB": "15/12/2007",
-  "Website": "https://jothin.tech",
-  "Blog": "https://blog.jothin.tech",
+```javascript
+const abt_me = {
+  "name": "JOTHINKUMAR B",
+  "location": "Chennai, India",
+  "programming-languages": ["Python", "JavaScript", "C", "Java", "Bash"],
+  "websites": ["jothin.tech", "joth.in"],
 
-  "Contact": {
-    "E-mail": "contact@jothin.tech",
-    "Discord": "jothin-kumar#1075"
+  "socials": {
+    "GitHub": "@Jothin-kumar",
+    "X": "@JothinKumar",
+    "InstaGram": "@jothin_kumar"
+    // More at https://joth.in/connect
   },
-  
-  "Social": [
-    "showwcase": "https://www.showwcase.com/jothin-kumar",
-    "dev.to": "https://dev.to/jothinkumar",
-    "fueler": "https://fueler.io/jothin"
-  ]
+
+  "contact": {
+    "discord-server": "https://joth.in/dc",
+    "emails": ["contact@jothin.tech", "hi@joth.in"]
+  }
 }
 ```
-<div align="center">
-  <h2>My stats</h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jothin-kumar&theme=dark" alt="My streak">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jothin-kumar&theme=darkhub&column=3" alt="My trophies">
-</div>
