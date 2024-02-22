@@ -2,7 +2,7 @@
 const abt_me = {
   "name": "JOTHINKUMAR B",
   "location": "Chennai, India",
-  "programming-languages": ["Python", "JavaScript", "C", "Java", "Bash"],
+  "programming-languages": ["Python", "JavaScript", "C", "Java", "Bash", "Julia"],
   "websites": ["jothin.tech", "joth.in"],
 
   "socials": {
