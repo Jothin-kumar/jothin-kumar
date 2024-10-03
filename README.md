@@ -1,3 +1,7 @@
+I’m a passionate programmer from India, specializing in Python and JavaScript. As a student and JEE aspirant, I balance my academic pursuits with exploring the exciting world of coding. I’m constantly learning and experimenting with new programming projects, fueled by my love for technology
+
+---
+
 ```javascript
 const abt_me = {
   "name": "JOTHINKUMAR B",
