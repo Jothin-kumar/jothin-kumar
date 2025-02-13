@@ -33,8 +33,9 @@ const abt_me = {
 
     "socials": {
         "GitHub": "@Jothin-kumar",
-        "X": "@JothinKumar",
-        "InstaGram": "@jothin_kumar"
+        "InstaGram": "@jothin_kumar",
+        "YouTube": "@jothinkumar",
+        "X": "@JothinKumar"
     },
 
     "contact": {
