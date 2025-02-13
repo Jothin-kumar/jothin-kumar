@@ -10,12 +10,12 @@ const abt_me = {
     "name": "JOTHINKUMAR B",
     "location": "Chennai, India",
 
-    "significant-projects": [
+    "significant-projects": {
         "A-Maze": {
             "source-code": "github.com/Jothin-kumar/a-maze",
             "Live": "a-maze.jothin.tech"
         }
-    ],
+    },
 
     "programming-languages": [
         "Python",
