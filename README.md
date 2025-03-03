@@ -48,4 +48,4 @@ const abt_me = {
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats-jothin-kumars-projects.vercel.app?user=Jothin-kumar&theme=dark&hide_border=true&border_radius=10&short_numbers=true&date_format=j%2Fn%5B%2FY%5D)](https://github.com/Jothin-kumar#js-contribution-activity)
+[![GitHub Streak](https://github-readme-streak-stats-jothin-kumars-projects.vercel.app?user=Jothin-kumar&theme=highcontrast&hide_border=true&border_radius=10&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&hide_total_contributions=true)](https://github.com/Jothin-kumar#js-contribution-activity)
