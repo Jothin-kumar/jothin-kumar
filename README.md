@@ -45,7 +45,3 @@ const abt_me = {
     // More at joth.in/connect
 }
 ```
-
----
-
-[![GitHub Streak](https://github-readme-streak-stats-jothin-kumars-projects.vercel.app?user=Jothin-kumar&theme=highcontrast&hide_border=true&border_radius=10&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&hide_total_contributions=true)](https://github.com/Jothin-kumar#js-contribution-activity)
